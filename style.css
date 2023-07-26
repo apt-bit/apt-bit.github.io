@@ -1,3 +1,21 @@
 * {
     font-family: Helvetica, sans-serif;
 }
+
+body {
+    background: no-repeat center url("./resources/astronaut_alone_above_earth.jpg");
+    background-size: cover;
+    height: 100rem;
+}
+
+header {
+    color: white;
+    text-align: center;
+    padding-top: 1rem;
+
+}
+
+#opening-desc {
+    color: white;
+    margin: 4rem;
+}
