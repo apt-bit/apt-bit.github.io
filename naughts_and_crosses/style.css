@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+#central-container {
+    display: flex;
+    justify-content: center;
+}
+
+#grid-container {
+    display: grid;
+    position: relative;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 50rem;
+    height: 50rem;
+    justify-content: center;
+    gap: 1px;
+}
+
+.grid-item {
+    padding: 1rem;
+    background-color: antiquewhite;
+}
+
+.grid-item:hover {
+    filter: brightness(85%);
+}
