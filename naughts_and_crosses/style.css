@@ -20,6 +20,12 @@ h1 {
 .grid-item {
     padding: 1rem;
     background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10rem;
+    aspect-ratio: 1;
+
 }
 
 .grid-item:hover {
