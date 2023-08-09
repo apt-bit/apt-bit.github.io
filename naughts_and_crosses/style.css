@@ -2,7 +2,7 @@ h1 {
     text-align: center;
 }
 
-#central-container {
+.central-container {
     display: flex;
     justify-content: center;
 }
@@ -30,4 +30,9 @@ h1 {
 
 .grid-item:hover {
     filter: brightness(85%);
+}
+
+button {
+    font-family: serif;
+    margin-top: 10px;
 }
