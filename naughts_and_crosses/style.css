@@ -14,7 +14,8 @@ h1 {
     width: 50rem;
     height: 50rem;
     justify-content: center;
-    gap: 1px;
+    gap: 5px;
+    background-color: black;
 }
 
 .grid-item {
