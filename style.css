@@ -1,0 +1,42 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+nav a {
+    color: white;
+    padding-right: 1rem;
+}
+
+body {
+    background: no-repeat center url("./resources/astronaut_alone_above_earth.jpg");
+    background-size: cover;
+    height: 100rem;
+}
+
+header {
+    color: white;
+    font-size: 0.8rem;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+h3, h5 {
+    color: white;
+    text-align: center;
+    padding-top: 1rem;
+
+}
+
+#opening-desc {
+    color: white;
+    display: grid;
+    justify-content: center;
+}
+
+p {
+    max-width: 50rem;
+}
+

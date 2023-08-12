@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+}
+
+nav a {
+    color: white;
+    padding-right: 1rem;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.central-container {
+    display: flex;
+    justify-content: center;
+}
+
+#grid-container {
+    display: grid;
+    position: relative;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 50rem;
+    height: 50rem;
+    justify-content: center;
+    gap: 5px;
+    background-color: black;
+}
+
+.grid-item {
+    padding: 1rem;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10rem;
+    aspect-ratio: 1;
+
+}
+
+.grid-item:hover {
+    filter: brightness(85%);
+}
+
+button {
+    font-family: serif;
+    margin-top: 10px;
+}
