@@ -1,7 +1,17 @@
 # Website Blog
 
 
-<br>  
+<br>
+
+### Starting React - 16/08/23
+
+So I finished learning about standard asynchronous JS and if you use async/await its fairly simple. Using the promises directly leads to some relatively hard to read syntax but I think I also get that to a decent level. I should try to implement these in my website somehow but the only way of legitimately doing that is to query an API or something (eventually I will learn to do this with a database actually) which I'm not sure I have one I'm interested in. Will have to look into cool APIs I may be able to use.
+
+I've recently started on React now. I'm starting to feel a bit swept up in everything and need to take some time to cement my knowledge that I've got now. I think I will finish the React portion and then make a site with that; I don't think that will be able to be linked into the original site but I may end up making the whole thing in React I'm not sure. 
+
+Work has been very busy recently as my boss is off, I'm still trying to learn as quickly as possible though. I am looking forward to learning about the back-end and tying everything together eventually. 
+
+<br>
 
 ### Multiple pages - 11/08/23
 
@@ -12,6 +22,8 @@ In the online course I have started to learn about asynchronous Javascript which
 I'm also updating my CV and using markdown for that which I quite like. Will be applying for new jobs soon.
 
 Anyway thats all for now.
+
+<br>
 
 ### Starting a blog - 08/08/23
 
