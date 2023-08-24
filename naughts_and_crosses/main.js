@@ -34,3 +34,4 @@ function reset(e) {
 
 const button = document.querySelector('button');
 button.addEventListener('click', reset);
+
