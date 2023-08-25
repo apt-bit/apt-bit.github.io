@@ -3,6 +3,22 @@
 
 <br>
 
+### React Confusion - 24/08/23
+
+Okay, React can melt your brain.
+
+I started learning about the state hook and it has probably taken me a few hours spread over several days to start to properly understand it. On the plus side its definitely cementing my knowledge of Javascript, I did not realise that iterative method callback functions accept three parameters but that is very useful to know.
+
+I made a React website using create react app, (I call app Britain). It's useful to be able to test out my own code and also means I can still code on my laptop without internet on trains and stuff. It also forces me to learn more about GitHub and Git because I have to use the online repository to make sure I'm working on up-to-date code, these are both very useful to be honest and I've started using them for other areas such as my CV (although I keep that private on GitHub). I implemented a "shop" into my React website, basically just a list of buttons that represents a basket and a list of buttons that represents available items; when you click on a button in the items it adds a button with the same name to the basket. It's very simple and has absolutely no GUI at all and also needs to be changed to show multiple items in the basket as one item with a quantity going up but it's a start.
+
+I am fairly used to unpacking (or destructuring) in Javascript now as that seems to be very much the normal way when working with React, unpacking the event object to get the target property within the parameter was a bit weird to begin with but I'm used to it now. 
+
+I think I am going to reassess my aims and go for finishing the front-end of the course by October which is when I'll get busier again. That is probably realistic considering how tricky I have found even the most basic parts of React so far.
+
+Just keep swimming...
+
+<br>
+
 ### Starting React - 16/08/23
 
 So I finished learning about standard asynchronous JS and if you use async/await its fairly simple. Using the promises directly leads to some relatively hard to read syntax but I think I also get that to a decent level. I should try to implement these in my website somehow but the only way of legitimately doing that is to query an API or something (eventually I will learn to do this with a database actually) which I'm not sure I have one I'm interested in. Will have to look into cool APIs I may be able to use.
@@ -27,7 +43,7 @@ Anyway thats all for now.
 
 ### Starting a blog - 08/08/23
 
-I thought it would be a good idea to record my progress in words, which I haven't been doing. I have just finished the "Building Interactive Websites" section of the full stack course. I am able to alter HTML elements with Javascript but I'm still rusty with it. I need to practice parts of the course outside of it on my own website and I think naughts and crosses would be a good webpage to make in this vein. It would develop my CSS and Javascript because the symbols will need to appear in the correct places and disappear for a new game.
+I thought it would be a good idea to record my progress in words, which I haven't been doing. I have just finished the "Building Interactive Websites" section of the full stack course. I am able to alter HTML elements with Javascript but I'm still rusty with it. I need to practise parts of the course outside of it on my own website and I think naughts and crosses would be a good webpage to make in this vein. It would develop my CSS and Javascript because the symbols will need to appear in the correct places and disappear for a new game.
 
 I will try to record my thoughts at least once a week. I am progressing through this course as fast as I can at the moment as I will also be starting Open University soon and I need to finish it by then. I also do want to be looking for web dev jobs as soon as possible and for that I would like to get my website properly running which means getting to the back-end development part of the course.
 
