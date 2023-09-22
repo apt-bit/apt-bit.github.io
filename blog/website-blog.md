@@ -3,6 +3,42 @@
 
 <br>
 
+### Busy Busy Busy - 22/09/23
+
+I've had a lot on recently. Finally finished the front-end part of the course, the Redux part dragged so much as it's hard to get motivation to learn something I don't think I will be using at least in the short term. I also don't think it was taught particularly well in the course so that didn't help. There was also an extra part on Git and GitHub which I think was really useful to do with branches and debasing. Although I haven't ever done a pull request as I haven't used GitHub in a collaborative way it definitely helped me cement my Git knowledge a bit better.
+
+Currently I'm torn between moving on to the back-end stuff which I think I'll be really quite interested in and starting a big React project which is also an exciting idea. Reading my previous post does make me lean towards the project side of things, especially since I would like to get into a new job soonish, current job is getting very tiring right now. However the subject of the project is quite a difficult thing to nail down since I know I will be spending a lot of time on it. I liked the idea of a Peep Show (the TV show) style card game with different characters on it with stats. However I assume a more professional and real-life scenario website would be more impressive to prospective employers maybe, or maybe something different would help me stand out I'm really uncertain about it.
+
+I need to have a think about the options for this as it will be a large time commitment, I also really like the idea of test driven development and think I would really enjoy this approach of seeing the tests slowly turn green.
+
+I have a lot to think about and I need a proper plan.
+
+<br>
+
+### Front-end Progression - 13/09/23
+
+I'm closing in on completing the front-end portion of the Codecademy course. I will definitely finish it before I start my OU degree in October, luckily one module I will be doing concentrates on web development and cloud computing so I should still be making progress in this area even if I don't have time to look at the Codecademy course anymore.
+
+I have finished the React part finally, it was very slow as I was trying to understand each part completely and now I am okay with React. I still need to concentrate on some project site, I am considering a store website for purchasing goods as I think that would demonstrate lots of relevant skills that employers may look for. 
+
+Currently looking at Redux which I will probably not use in my own project; it seems to be a useful approach for debugging and good for larger projects but for my stuff it is probably an unnecessary constraint. However it is still useful to get a base level of knowledge.
+
+Other than that I haven't started applying for jobs yet as I don't have a proper project completed yet so that should be my priority especially if I can link that in with my OU course to feed two birds with one scone.
+
+Progression does feel very slow sometimes but I have gone back through some of the older posts in this blog to make myself feel a bit better. I've had a couple of more relaxed weeks which I really needed but I am definitely ready to get back into it right now.
+
+<br>
+
+### Slow Week - 31/08/23
+
+Been busy with other stuff recently. Also progress has slowed since React is more complicated than other areas, it's also very difficult to debug in the Codecademy teaching browser which doesn't help. Been struggling with motivation recently. I think I want to concentrate on a project I make myself to help focus me. It's a little to early to do one using React I think so maybe just a normal website but I want to incorporate Javascript as much as possible.
+
+I should take a look at other peoples portfolio websites and take inspiration from that. Or another option is to try to make a functional website like a shop or random quote generator. Also need to work on interview stuff. I need to get a job in this area at this point and I don't think I can wait until I know the full stack.
+
+Don't have to get the first one I just need to be applying.
+
+<br>
+
 ### React Confusion - 24/08/23
 
 Okay, React can melt your brain.
