@@ -3,6 +3,16 @@
 
 <br>
 
+### Software Engineering - 29/09/23
+
+One of my courses (called Software Engineering) contains a lot of learning about different development methods, I think including these in my project development could be helpful. Test driven development could be quite motivating for me and having a clearer path and process would help a lot I think. Also it gives a better idea about how an actual company would be run. 
+
+I'm also considering applying for more data driven jobs as I think I would be able to get interviews more easily seeing as I have a professional history more in that area.
+
+Just staying on top of everything at the moment is not easy. No project progress this week at all.
+
+<br>
+
 ### Busy Busy Busy - 22/09/23
 
 I've had a lot on recently. Finally finished the front-end part of the course, the Redux part dragged so much as it's hard to get motivation to learn something I don't think I will be using at least in the short term. I also don't think it was taught particularly well in the course so that didn't help. There was also an extra part on Git and GitHub which I think was really useful to do with branches and debasing. Although I haven't ever done a pull request as I haven't used GitHub in a collaborative way it definitely helped me cement my Git knowledge a bit better.
