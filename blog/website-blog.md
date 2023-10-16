@@ -3,6 +3,15 @@
 
 <br>
 
+### Uni - 16/10/23
+
+Been a long time since I wrote. Basically just doing uni work in my spare time. Not sure if I'll be able to contribute much to this in the foreseeable future. I am doing a web development module and it does have React in it. I think the first bit of coursework is a front-end React application so I will still be working on the same stuff but the subject will be decided by the course more than just me.
+
+I can only do so much at once without my brain exploding unfortunately.
+
+
+<br>
+
 ### Software Engineering - 29/09/23
 
 One of my courses (called Software Engineering) contains a lot of learning about different development methods, I think including these in my project development could be helpful. Test driven development could be quite motivating for me and having a clearer path and process would help a lot I think. Also it gives a better idea about how an actual company would be run. 
